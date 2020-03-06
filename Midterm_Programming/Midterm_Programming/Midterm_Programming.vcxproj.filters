@@ -26,7 +26,7 @@
     <ClInclude Include="ReverseRecursively.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="AddValue.h">
+    <ClInclude Include="MergeSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
